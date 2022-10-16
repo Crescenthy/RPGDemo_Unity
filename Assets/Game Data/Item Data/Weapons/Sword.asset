@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ba99e5eee10a824890dab39220e823d, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Sword
+  itemIcon: {fileID: 21300000, guid: 4cd7218e600fccb47b3b1fcfb06e0070, type: 3}
+  stackable: 0
+  itemAmount: 1
+  description: "\u8FD9\u662F\u4E00\u628A\u666E\u901A\u7684\u5251\n\u8FD9\u662F\u4E00\u628A\u666E\u901A\u7684\u5251\n\u8FD9\u662F\u4E00\u628A\u666E\u901A\u7684\u5251\n\u8FD9\u662F\u4E00\u628A\u666E\u901A\u7684\u5251"
+  useableData: {fileID: 0}
+  weaponPrefab: {fileID: 6486183098045338210, guid: 06d4ab13155b51a4b892a6f3ccbf70ee, type: 3}
+  weaponData: {fileID: 11400000, guid: 8b4461392ab21894995b4624a848a418, type: 2}
+  weaponAnimator: {fileID: 22100000, guid: 0d6c1135f9d95b841a2ecceee90d3423, type: 2}

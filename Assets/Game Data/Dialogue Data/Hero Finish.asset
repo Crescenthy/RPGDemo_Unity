@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d735a5bc9bbfb0046ac02770c83dfe23, type: 3}
+  m_Name: Hero Finish
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: Piece01
+    image: {fileID: 0}
+    text: "\u771F\u611F\u8C22\u4F60\u7684\u5E2E\u5FD9\uFF01\u53BB\u5192\u9669\u5427\u6211\u7684\u9A91\u58EB\uFF01"
+    quest: {fileID: 0}
+    options: []
