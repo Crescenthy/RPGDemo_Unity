@@ -1,5 +1,5 @@
-# 3D-RPG
-一个基于Unity实现的3D RPG demo
+# RPG Demo
+基于Unity实现的RPG Demo
 
 游戏主界面
 ---
